@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "851b3322692c5a46",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f04619190aa5f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "974f69dbea8de532",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77732c184ba6a7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "718f8680f40d5d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891705fdc089b2fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f40eec328767ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1b93aa2a5a37eed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f2a0449f4071705",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d796124989f5848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df625217d8258384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3dd2ac1ca9ca4a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99d9dbf3e17eeb81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88a0cce78d1fefdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "974f69dbea8de532",
+  "lastOpenFiles": [
+    "组织/救赎蔷薇.md",
+    "途径/魔女.md",
+    "途径/风暴.md",
+    "途径/观众.md",
+    "途径/药师.md",
+    "途径/蔷薇主教.md",
+    "途径/秘祈人.md",
+    "途径/秘偶.md",
+    "途径/猎人.md",
+    "途径/死神.md",
+    "途径/怪物.md",
+    "途径/太阳.md",
+    "途径/学徒.md",
+    "途径/占卜家.md",
+    "途径/偷盗.md",
+    "途径",
+    "组织/黄昏隐士会.md",
+    "组织/玫瑰学派.md",
+    "组织/极光会.md",
+    "组织/灵教团.md",
+    "组织/摩斯苦修会.md",
+    "组织/塔罗会.md",
+    "组织/main.py",
+    "组织",
+    "物品/鱼人袖钉.md",
+    "物品/谎言.md",
+    "物品/许愿神灯.md",
+    "物品/蠕动的饥饿.md",
+    "物品/源堡.md",
+    "物品",
+    "地点",
+    "人物",
+    "事件",
+    "lordofthemysteries/人物",
+    "lordofthemysteries/地点",
+    "lordofthemysteries/组织/main.py",
+    "未命名.canvas"
+  ]
+}
